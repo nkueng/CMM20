@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/lbfgspp-subbuild/CMakeFiles/lbfgspp-populate"
+		},
+		{
+			"file" : "/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/lbfgspp-subbuild/CMakeFiles/lbfgspp-populate.rule"
+		},
+		{
+			"file" : "/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/lbfgspp-subbuild/CMakeFiles/lbfgspp-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/lbfgspp-subbuild/lbfgspp-populate-prefix/src/lbfgspp-populate-stamp/lbfgspp-populate-install.rule"
+		},
+		{
+			"file" : "/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/lbfgspp-subbuild/lbfgspp-populate-prefix/src/lbfgspp-populate-stamp/lbfgspp-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/lbfgspp-subbuild/lbfgspp-populate-prefix/src/lbfgspp-populate-stamp/lbfgspp-populate-download.rule"
+		},
+		{
+			"file" : "/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/lbfgspp-subbuild/lbfgspp-populate-prefix/src/lbfgspp-populate-stamp/lbfgspp-populate-update.rule"
+		},
+		{
+			"file" : "/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/lbfgspp-subbuild/lbfgspp-populate-prefix/src/lbfgspp-populate-stamp/lbfgspp-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/lbfgspp-subbuild/lbfgspp-populate-prefix/src/lbfgspp-populate-stamp/lbfgspp-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/lbfgspp-subbuild/lbfgspp-populate-prefix/src/lbfgspp-populate-stamp/lbfgspp-populate-build.rule"
+		},
+		{
+			"file" : "/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/lbfgspp-subbuild/lbfgspp-populate-prefix/src/lbfgspp-populate-stamp/lbfgspp-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"lbfgspp-populate"
+		],
+		"name" : "lbfgspp-populate"
+	}
+}

@@ -1,0 +1,14 @@
+# Target labels
+ nanovg-populate
+# Source files and their labels
+/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/nanovg-subbuild/CMakeFiles/nanovg-populate
+/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/nanovg-subbuild/CMakeFiles/nanovg-populate.rule
+/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/nanovg-subbuild/CMakeFiles/nanovg-populate-complete.rule
+/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-install.rule
+/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-mkdir.rule
+/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-download.rule
+/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-update.rule
+/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-patch.rule
+/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-configure.rule
+/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-build.rule
+/Users/Nicola/Documents/Code/CMM20/final-project-gradedescent/ext/cache/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-test.rule
